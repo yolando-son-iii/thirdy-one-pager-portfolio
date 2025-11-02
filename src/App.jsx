@@ -172,7 +172,7 @@ export default function Portfolio() {
             <div className="space-y-3 lg:space-y-4">
               <div className="inline-block">
                 <h1 className="text-4xl sm:text-5xl lg:text-7xl font-bold text-white tracking-tight animate-fadeInUp">
-                  Hi, I'm <span className="bg-gradient-to-r from-purple-400 via-violet-400 to-blue-400 bg-clip-text text-transparent animate-gradient">Thirdy</span>
+                  Hi, I'm <span className="bg-gradient-to-r from-purple-400 via-violet-400 to-blue-400 bg-clip-text text-transparent animate-gradient">Thirdy!</span>
                 </h1>
               </div>
               <p className="text-lg sm:text-xl lg:text-2xl text-gray-300 leading-relaxed animate-fadeInUp animation-delay-200">
