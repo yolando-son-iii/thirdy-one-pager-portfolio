@@ -89,7 +89,7 @@ export default function Portfolio() {
 
   const hobbies = [
     { icon: Gamepad2, text: "Honkai Star Rail & Genshin", color: "text-purple-400" },
-    { icon: Gamepad2, text: "Mobile Legends", color: "text-blue-400" },
+    { icon: Gamepad2, text: "Mobile Legends: Bang Bang", color: "text-blue-400" },
     { icon: Cat, text: "Cat Enthusiast", color: "text-pink-400" },
     { icon: Code2, text: "Web Development", color: "text-green-400" },
     { icon: Camera, text: "Photography", color: "text-yellow-400" },
