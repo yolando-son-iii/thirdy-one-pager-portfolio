@@ -177,7 +177,7 @@ export default function Portfolio() {
               </div>
               <p className="text-lg sm:text-xl lg:text-2xl text-gray-300 leading-relaxed animate-fadeInUp animation-delay-200">
                 Aspiring Business Analyst. I turn data into stories and chaos into strategy. 
-                <span className="text-purple-400"> Slightly addicted to gacha games</span>, tea enthusiast, and I love building cool websites.
+                <span className="text-purple-400"> Slightly addicted to gacha games</span>, pistachionista, and I love building cool websites.
               </p>
             </div>
 
